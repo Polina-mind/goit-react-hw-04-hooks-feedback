@@ -1,0 +1,15 @@
+.Statistics-block {
+  text-align: center;
+}
+
+.Statistic {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.Statistic-total {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
